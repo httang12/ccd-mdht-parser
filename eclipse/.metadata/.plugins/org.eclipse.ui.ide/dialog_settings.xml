@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.dita.dost:2.5.11.201511121413"/>
+		<item value="org.eclipse.egit:3.2.0.201312181205-r"/>
+		<item value="org.eclipse.emf.common:2.9.2.v20131212-0545"/>
+		<item value="org.eclipse.emf.ecore:2.9.2.v20131212-0545"/>
+		<item value="org.eclipse.help:2.0.2.v20140221-1700"/>
+		<item value="org.eclipse.jdt:3.9.1.v20130911-1000"/>
+		<item value="org.eclipse.jgit:3.2.0.201312181205-r"/>
+		<item value="org.eclipse.platform:4.3.2.v20140221-1852"/>
+		<item value="org.eclipse.rcp:4.3.2.v20140221-1700"/>
+		<item value="org.eclipse.team.svn:1.1.3.I20140206-1700"/>
+		<item value="org.eclipse.uml2:4.1.2.v20140202-2055"/>
+		<item value="org.eclipse.wst.xml.xpath2.processor.feature:2.0.200.v201302282018-7A7K8ZCcNBGPDQJ_GZKf"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.5.2.v201401062113-7H7IFizDxumVu0K6bjdPjXRkoz0FiUYMnSyT9PL"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/humingtang/git_repo/ccd-mdht-parser/CCDParser-MDHT"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

@@ -1,0 +1,22 @@
+!SESSION 2016-05-18 23:10:12.666 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/humingtang/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/humingtang/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.equinox.app 0 0 2016-05-18 23:10:13.910
+!MESSAGE Product cda.design.product could not be found.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-18 23:10:49.418
+!MESSAGE Both 'org.openhealthtools.mdht.uml.cda.core' and 'org.openhealthtools.mdht.uml.cda.core' register a package for 'http://www.openhealthtools.org/mdht/schemas/cda/4'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-18 23:10:49.419
+!MESSAGE Both 'org.openhealthtools.mdht.uml.term.core' and 'org.openhealthtools.mdht.uml.term.core' register a package for 'http://www.openhealthtools.org/mdht/schemas/term/1'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2016-05-18 23:10:49.423
+!MESSAGE Both 'org.openhealthtools.mdht.uml.cda' and 'org.openhealthtools.mdht.uml.cda.core' register an extension parser for 'cda'
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-18 23:10:50.505
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

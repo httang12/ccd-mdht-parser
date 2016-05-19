@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/lpg.runtime.java-2.0.17.v201004271640.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.core.contenttype-3.4.200.v20130326-1255.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.core.jobs-3.5.300.v20130429-1813.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.core.runtime-3.9.100.v20131218-1515.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.emf.common-2.9.2.v20131212-0545.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.emf.ecore-2.9.2.v20131212-0545.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.emf.ecore.xmi-2.9.1.v20131212-0545.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.equinox.app-1.3.100.v20130327-1442.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.equinox.common-3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.equinox.preferences-3.5.100.v20130422-1538.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.equinox.registry-3.5.301.v20130717-1549.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.ocl-3.3.0.v20140120-1508.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.ocl.common-1.1.0.v20130531-0544.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.ocl.ecore-3.3.0.v20130520-1222.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.osgi-3.9.1.v20140110-1610.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.uml2.common-1.8.2.v20140202-2055.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.eclipse.uml2.types-1.1.0.v20140202-2055.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.emf.runtime-2.5.4.201506041803.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.uml.cda-2.5.4.201506041803.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.uml.cda.consol-2.5.0.201506091525.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.uml.hl7.datatypes-2.5.4.201506041803.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.uml.hl7.rim-2.5.4.201506041803.jar"/>
+	<classpathentry kind="lib" path="/Users/humingtang/git_repo/ccd-mdht-parser/mdht-lib/nightlybuilds/mu2consol/org.openhealthtools.mdht.uml.hl7.vocab-2.5.4.201506041803.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
